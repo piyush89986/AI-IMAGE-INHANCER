@@ -24,6 +24,15 @@ Built with **React**, **Vite**, and **Tailwind CSS**, this project focuses on fa
 
 ---
 
+🌐 Live Demo : https://ai-image-inhancer-nine.vercel.app/
+
+🔗 Live Project: AI Image Enhancer
+
+👨‍💻 Author
+
+Piyush Singh Tomar
+💼 LinkedIn :www.linkedin.com/in/piyush-singh-tanwar-07a03833b
+
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
@@ -46,11 +55,4 @@ npm run dev
 
 
 
-🌐 Live Demo : https://ai-image-inhancer-nine.vercel.app/
 
-🔗 Live Project: AI Image Enhancer
-
-👨‍💻 Author
-
-Piyush Singh Tomar
-💼 LinkedIn :www.linkedin.com/in/piyush-singh-tanwar-07a03833b
