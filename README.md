@@ -33,25 +33,6 @@ Built with **React**, **Vite**, and **Tailwind CSS**, this project focuses on fa
 Piyush Singh Tomar
 💼 LinkedIn :www.linkedin.com/in/piyush-singh-tanwar-07a03833b
 
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/piyush89986/AI-IMAGE-ENHANCER.git
-
-# 2️⃣ Move into the project directory
-cd AI-IMAGE-ENHANCER
-
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Create a .env file in the root folder and add:
-VITE_API_KEY_PICWISH_API=your_api_key_here
-
-# 5️⃣ Run the development server
-npm run dev
 
 
 
