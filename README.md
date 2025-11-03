@@ -1,18 +1,56 @@
-# React + Vite
+# 🧠 AI Image Enhancer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered image enhancement web app that allows users to upload images and enhance their quality instantly using the **PicWish API**.  
+Built with **React**, **Vite**, and **Tailwind CSS**, this project focuses on fast performance, a modern UI, and smooth API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## React Compiler
+- 🖼️ Upload and preview your image instantly.  
+- ⚡ Enhance image quality using AI within seconds.  
+- ☁️ Integrated with **PicWish Image Enhance API**.  
+- 🧭 Responsive and minimal UI built with **Tailwind CSS**.  
+- 🚀 Deployed on **Vercel** for smooth and fast hosting.  
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🧠 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React + Vite  
+- **Styling:** Tailwind CSS  
+- **API:** PicWish AI Image Enhance API  
+- **Deployment:** Vercel  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/piyush89986/AI-IMAGE-ENHANCER.git
+
+# 2️⃣ Move into the project directory
+cd AI-IMAGE-ENHANCER
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Create a .env file in the root folder and add:
+VITE_API_KEY_PICWISH_API=your_api_key_here
+
+# 5️⃣ Run the development server
+npm run dev
+
+
+
+🌐 Live Demo : https://ai-image-inhancer-nine.vercel.app/
+
+🔗 Live Project: AI Image Enhancer
+
+👨‍💻 Author
+
+Piyush Singh Tomar
+💼 LinkedIn :www.linkedin.com/in/piyush-singh-tanwar-07a03833b
